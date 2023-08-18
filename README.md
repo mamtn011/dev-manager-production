@@ -32,6 +32,11 @@ A small project for practicing React & Strapi
 9. uuid for generating unique id
 10. axios
 11. qs for query
+12. Strapi
+13. Nodemailer
+14. gmail SMTP
+15. Cloudinary
+    
 
 ---
 
